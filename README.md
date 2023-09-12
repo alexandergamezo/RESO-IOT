@@ -10,4 +10,7 @@ To run the project:
 
 ---
 
-For the original coding task description, please refer to [RESO-IOT Coding Task - Eng](link).
+For the original coding task description, please refer to [RESO-IOT Coding Task - Eng](https://github.com/alexandergamezo/RESO-IOT/blob/master/RESO-IOT%20Coding%20Task%20-%20Eng.md).
+
+
+![pic 1](https://github.com/alexandergamezo/RESO-IOT/blob/master/pic_1.jpg) ![pic 2](https://github.com/alexandergamezo/RESO-IOT/blob/master/pic_2.jpg)
